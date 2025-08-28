@@ -1,0 +1,15 @@
+#Name: Benjamin Del Barrio
+#Email: Benjamin.delbarrio31@myhunter.cuny.edu
+#Date: August 28, 2025
+#This program draws an triangle.
+
+import turtle
+
+Ben = turtle.Turtle()
+Ben.shape('turtle')
+Ben.color('green')
+
+for i in range(8):
+  Ben.forward(150)
+  Ben.stamp()
+  Ben.left(120)
