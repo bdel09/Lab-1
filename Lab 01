@@ -9,7 +9,7 @@ Ben = turtle.Turtle()
 Ben.shape('turtle')
 Ben.color('green')
 
-for i in range(8):
+for i in range(4):
   Ben.forward(150)
   Ben.stamp()
   Ben.left(120)
