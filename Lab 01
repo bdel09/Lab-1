@@ -6,3 +6,8 @@ Ben.color('green')
 for i in range(10): #when making a shape, you want the number 0 < i < n to reflect the amount of edges (n) 
   Ben.forward(100) #Dentoes how many steps forward
   Ben.right(36) #Denotes the bearing of external angle
+
+#Benjamin Del Barrio
+
+for i in range(3): #loop
+  print("I'm looking. for a mind at work!") #statement
